@@ -1,1 +1,123 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-color: #222831;
+  color: #EEEEEE;
+  overflow: hidden;
+}
+
+
+
+.cmnt1, .cmnt4 {
+  background-color: #222831;
+  padding: 10px;
+  padding-left: 30px;
+  margin-top:7px;
+  margin-bottom: 10px;
+  border-color: #646466;
+  border-style: solid;
+  border-width: 0.05rem;
+  border-radius: 0.25rem;
+
+  list-style: none;
+  background-image: url("https://i.imgur.com/uxzOltO.png");
+  background-size: 14px;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-position-x: 10px;
+  background-position-y: 15px;
+}
+
+.cmnt2, .cmnt5 {
+  background-color: #393E46;
+  border-color: #646466;
+  border-style: solid;
+  border-width: 0.05rem;
+  border-radius: 0.25rem;
+
+  padding: 10px;
+  padding-left: 30px;
+
+  list-style: none;
+  background-image: url("https://i.imgur.com/uxzOltO.png");
+  background-size: 14px;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-position-x: 10px;
+  background-position-y: 15px;
+}
+
+.cmnt3, .cmnt6 {
+  background-color: #222831;
+  border-color: #646466;
+  border-style: solid;
+  border-width: 0.05rem;
+  border-radius: 0.25rem;
+  padding: 10px;
+  padding-left: 30px;
+
+  list-style: none;
+  background-image: url("https://i.imgur.com/uxzOltO.png");
+  background-size: 14px;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-position-x: 10px;
+  background-position-y: 15px;
+}
+
+.comments{
+
+}
+.upvotescomments{
+  font-weight: bolder;
+  padding-right: 0.7em;
+}
+h2{
+  background-image: url("https://i.imgur.com/uxzOltO.png");
+  background-size: 0.75em;
+  background-repeat: no-repeat;
+  background-position: left top;
+  background-position-y: 0.38em;
+  padding-left: 25px;
+
+  line-height: 1.5em;
+  height: 3em;
+}
+.upvotesPost{
+  padding-right: 15px;
+  padding-left: 2px;
+  font-weight: bolder;
+}
+.empty{
+  line-height: 1.5em;
+  height: 3em;
+}
+.secClass{
+  background-color: #393E46;
+  margin:2em;
+
+}
+.cont1 {
+  background-color: #393E46;
+  height:750px;
+  max-height: 750px;
+}
+.filler{
+
+}
+img{
+  max-height: 600px;
+}
+.time{
+  font-size: 90px;
+  line-height: 80%;
+}
+.date{
+  font-size: 50px;
+  line-height: 80%;
+}
+.col1{
+
+}
+.col2{
+
+}
